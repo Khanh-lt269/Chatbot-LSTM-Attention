@@ -4,7 +4,8 @@
 
 Get decoder model from this [link](https://drive.google.com/drive/folders/1kSL_xwTDC2rN7VyQ0SxTLu6przbbsPEX?usp=sharing)
 
-##Set up
+## Set up
+First, install required libraries
 ```
 pip install -r requirements.txt
 or
