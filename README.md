@@ -2,7 +2,7 @@
 
 ## Create a folder for models:
 
-Get decoder model from this [link](https://drive.google.com/drive/folders/1kSL_xwTDC2rN7VyQ0SxTLu6przbbsPEX?usp=sharing)
+Get decoder model from this [link](https://drive.google.com/drive/folders/1kSL_xwTDC2rN7VyQ0SxTLu6przbbsPEX?usp=sharing) and put it in models folder
 
 ## Set up
 First, install required libraries
